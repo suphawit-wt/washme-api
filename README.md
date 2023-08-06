@@ -1,1 +1,1 @@
-# washme-api
+# WashME - Ktor Server API
